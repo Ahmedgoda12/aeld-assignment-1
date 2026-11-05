@@ -12,6 +12,8 @@
 *   3) Use unity assertion TEST_ASSERT_EQUAL_STRING_MESSAGE to verify the two strings are equal.  See
 *       the [unity assertion reference](https://github.com/ThrowTheSwitch/Unity/blob/master/docs/UnityAssertionsReference.md)
 */
+/* This function was generated with help from Claude (Anthropic AI assistant)
+ * and reviewed/tested by me, following the course guideline for referencing AI content. */
 void test_validate_my_username()
 {
     /**
